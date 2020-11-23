@@ -1,0 +1,12 @@
+body {
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left;
+}
+.task1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
